@@ -1,0 +1,11 @@
+PRECISO AUTOMATIZAR MINHAS MENSAGENS P/ MEUS CLIENTES, QUERO PODER 
+MANDAR MENSAGENS DE COBRANÇA EM DETERMINADO DIA COM CLIENTES COM
+VENCIMENTO DIFERENTE
+
+ #Como automatizar esse processo?
+-  Onde está feito (versão web)
+-  Quais tec. preciso para resolver essa demanda?
+	-  Automatizar teclado (Pyautogui)
+	-  Acesso ao site (webbrowser)
+	-  Automatizar digitação (link whatsapp)
+	-  Automatizar leitura de dados (openpyxls)
